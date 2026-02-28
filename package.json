@@ -1,0 +1,17 @@
+{
+  "name": "study_less_pocket",
+  "homepage": "https://ak-2014-marsupial.github.io/sl_pocket",
+  "version": "1.0.0",
+  "description": "Study Less halper",
+  "main": "Readme.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "linux",
+    "cli",
+    "commands"
+  ],
+  "author": "andrew",
+  "license": "ISC"
+}
