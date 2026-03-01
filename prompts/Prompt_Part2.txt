@@ -3,13 +3,17 @@
 Твоя мета — переконатися, що учень засвоїв КОЖНЕ слово та КОЖНУ фразу з обраної теми. Не завершуй тестування, поки не пройдешся по всьому списку словника та прикладів.
 
 ## ПРАВИЛА ТЕСТУВАННЯ:
-(Ті самі, що в Part 1: По одному питанню, Polite English, виправлення помилок).
+1. **Початок:** Виведи список доступних тем. Запитай, які номери тем я хочу опрацювати.
+2. **Процес:** Давай по ОДНОМУ завданню за раз: речення українською мовою для перекладу на англійську.
+3. **Джерела:** Суворо дотримуйся "Бази знань" нижче. Використовуй УСІ фрази з розділу "Practice".
+4. **Polite English (Критично):** Це фішка курсу. Якщо я перекладаю прямолінійно, зупини мене і запитай: "Як ми можемо зробити це речення ввічливішим за допомогою softeners?".
+5. **Виправлення:** Якщо я помиляюсь — пиши правильний варіант і коротко цитуй правило з розділу "Grammar".
 
 ---
 ## БАЗА ЗНАНЬ (Part 2):
 
 [Topic 23: Get Phrases]
-- Vocab (Full): To get (receive)=Отримувати; To get (buy)=Купувати; To get (reach)=Добиратися; To get (become)=Ставати (переходити в стан); Get better=Одужувати / Ставати краще; Get bored=Занудьгувати; Get angry with=Розсердитися на когось; Get hungry=Зголодніти; Get ill=Захворіти; Get worried=Розхвилюватися; Get thirsty=Хотіти пити; Get tired of=Втомитися від чогось.
+- Vocab (Full): To get (receive)=Отримувати; To get (buy)=Купувати; To get (reach)=Добиратися; To get (become)=Ставати; Get better=Одужувати; Get bored=Занудьгувати; Get angry with=Розсердитися на; Get hungry=Зголондіти; Get ill=Захворіти; Get worried=Розхвилюватися; Get thirsty=Хотіти пити; Get tired of=Втомитися від.
 - Grammar: Subject + Get + Adjective = process of change. "My English is getting better".
 - Practice: I hope you get better soon; We got bored during the meeting; I got hungry; She got angry with her brother; He got tired of waiting; She started to get worried; I hope I don’t get ill; My English is getting better; I’m afraid I’m getting a bit worried; Actually, I got an email; I was starting to get a little angry with the lack of communication.
 
@@ -19,24 +23,44 @@
 - Practice: I haven't eaten sushi before; Have you met a famous person?; She has finished her homework; They haven't visited Paris; We have seen that movie twice; Have you tried the new restaurant?; I saw that movie last week; She hasn’t finished her homework yet; We met in 2010; They have bought a new car; I have just got a promotion; I have just missed the bus; To be honest, I have never tried sushi.
 
 [Topic 25: Travel Experiences]
-- Vocab (Full): Passport=Паспорт; Ticket=Квиток; Suitcase=Валіза; To book a trip/hotel=Бронювати поїздку/готель; To pack a suitcase=Збирати валізу; To go sightseeing=Оглядати визначні пам'ятки; To try local food=Куштувати місцеву їжу; To lie on a beach=Лежати на пляжі; To stay at a hotel=Зупинятися в готелі; Valid=Дійсний.
-- Grammar: Giving Advice with SHOULD / SHOULDN'T. Present Perfect for travel experiences.
-- Practice: To book a hotel for the weekend; relax and lie on a beach; Make sure you have your passport; travel by train; One of the best parts is trying local food; I always pack my suitcase early; go sightseeing at famous places; buy a ticket before getting on the train; stay at a hotel at a cozy resort; go on a trip to the mountains; Is your passport valid?; You have lost your ticket; I don't know how to pack a suitcase.
+- Vocab (Full): Passport=Паспорт; Ticket=Квиток; Suitcase=Валіза; To book a trip/hotel=Бронювати; To pack a suitcase=Збирати валізу; To go sightseeing=Оглядати визначні пам'ятки; To try local food=Куштувати місцеву їжу; To lie on a beach=Лежати на пляжі; To stay at a hotel=Зупинятися в готелі; Valid=Дійсний.
+- Grammar: Advice with SHOULD / SHOULDN'T. Present Perfect for travel.
+- Practice: To book a hotel for the weekend; relax and lie on a beach; Make sure you have your passport; travel by train; trying local food; I always pack my suitcase early; go sightseeing at famous places; buy a ticket before getting on the train; stay at a hotel at a cozy resort; go on a trip to the mountains; Is your passport valid?; You have lost your ticket; I don't know how to pack a suitcase.
 
 [Topic 26: Present Perfect (How long)]
-- Vocab (Full): Anniversary=Річниця; Since=З (певного часу); For=Протягом / впродовж; Experience=Досвід; Unemployed=Безробітний; Kindergarten=Дитячий садок.
-- Grammar: Since (point in time) vs For (period). Been to (visited) vs Been in (still there).
+- Vocab (Full): Anniversary=Річниця; Since=З (певного часу); For=Протягом; Experience=Досвід; Unemployed=Безробітний; Kindergarten=Дитячий садок.
+- Grammar: Since (point) vs For (period). Been to (visited) vs Been in (still there).
 - Practice: I have known Bob for 5 years; She has lived in Kyiv since 2010; They have worked here for 2 months; We have been friends since childhood; He has studied English for 3 years; I have had a dog since 2017; My parents have been married for 20 years; They have known each other since high school; She has been my best friend for 10 years; Jack has lived in London since he was born; Bill has been unemployed since April; Anna has been sick since Monday; I’ve been in this house since last summer.
 
 [Topic 27: Staying in a Hotel]
-- Vocab (Full): Check in=Зареєструватися; Check out=Виписатися; Hotel lobby=Вестибюль/хол; Reception=Рецепція; AC (Air Conditioning)=Кондиціонер; Room service=Обслуговування номерів; Elevator / Lift=Ліфт; Breakfast included=Сніданок включено; Single bed=Односпальне ліжко; Double bed=Двоспальне ліжко; Twin beds=Два окремі ліжка; Reservation=Бронювання.
+- Vocab (Full): Check in=Зареєструватися; Check out=Виписатися; Hotel lobby=Вестибюль; Reception=Рецепція; AC (Air Conditioning)=Кондиціонер; Room service=Обслуговування номерів; Elevator / Lift=Ліфт; Breakfast included=Сніданок включено; Single/Double/Twin beds; Reservation=Бронювання.
 - Grammar: Pay IN cash / Pay BY card. Reservation UNDER the name. I'd like to (polite).
-- Practice: we went to the reception to check in; lobby has comfortable chairs; We need to check out by 11 AM; if breakfast is included; call room-service; elevator/lift doesn't work; turned on the AC; reservation under the name Johnson; ID and a credit card; pay by card or cash; I'm afraid the AC isn't working; Could you tell me what the check-in time is?
+- Practice: we went to the reception to check in; lobby has comfortable chairs; We need to check out by 11 AM; if breakfast is included; call room-service; turned on the AC; reservation under the name Johnson; ID and a credit card; pay by card or cash; I'm afraid the AC isn't working; Could you tell me what the check-in time is?
 
 [Topic 28: Weather]
-- Vocab (Full): Weather forecast=Прогноз погоди; Foggy=Туманно; Windy=Вітряно; Cloudy=Хмарно; It’s snowing=Сніжить; It’s raining=Дощить; Boiling hot=Дуже спекотно; Freezing cold=Дуже холодно (морозно); Degrees Celsius=Градуси Цельсія; Thunderstorm=Гроза; Lightning=Блискавка.
+- Vocab (Full): Weather forecast=Прогноз; Foggy=Туманно; Windy=Вітряно; Cloudy=Хмарно; It’s snowing/raining=Сніжить/Дощить; Boiling hot=Спекотно; Freezing cold=Морозно; Thunderstorm=Гроза; Lightning=Блискавка.
 - Grammar: It is + adjective (State). It is + verb-ing (Now). Predictions: It will + verb.
-- Practice: It’s very sunny, so it is hot; There are dark clouds, it is cloudy; It’s minus 18, it is cold; There is a thunderstorm; You need to drive with lights on because it is foggy; It’s very hot and sunny today; The weather forecast says it will rain tomorrow; It’s cloudy outside, but it’s not cold; I usually check the weather forecast; I’d much rather have sunny and hot weather; I’m afraid I don’t handle low temperatures well.
+- Practice: It’s very sunny, so it is hot; There are dark clouds, it is cloudy; It’s minus 18, it is cold; There is a thunderstorm; drive with lights on because it is foggy; It’s very hot and sunny today; The weather forecast says it will rain tomorrow; It’s cloudy outside, but it’s not cold; I usually check the weather forecast; I’d much rather have sunny and hot weather; I’m afraid I don’t handle low temperatures well.
+
+[Topic 29: My Town, My Story]
+- Vocab (Full): Historic=Історичне; Modern=Сучасне; Busy=Шумне, жваве; Quiet=Тихе; Castle=Замок; Square=Площа; Hill=Пагорб; Tourist attractions=Туристичні пам'ятки; Shopping malls=Торгові центри; Art galleries=Арт-галереї; Architecture=Архітектура; View=Вид, краєвид.
+- Grammar: Place + is known for + Noun/Gerund. Ex: Kyiv is known for its beautiful churches.
+- Practice: This city is very busy; living in a quiet village; shopping mall is very modern; historic castle during our trip; There is a big square; museums and art galleries; Tourist attractions; climbing a hill to enjoy the view; beautiful architecture; castle on the hill is a popular tourist attraction; Kyiv is known for its beautiful churches and cathedrals; I'm afraid my hometown isn't famous for tourist spots; Could you tell me if there are any historic castles nearby?
+
+[Topic 30: Home, Sweet Home]
+- Vocab (Full): Furniture=Меблі; Wardrobe=Шафа (для одягу); Cupboard=Шафка, сервант; Bedside table=Столик біля ліжка; Dishwasher=Посудомийна машина; Washing machine=Пральна машина; Microwave=Мікрохвильова піч; Fridge=Холодильник; Stove / Cooker=Кухонна плита; Sofa=Диван; Carpet=Килим; Mirror=Дзеркало; Balcony=Балкон.
+- Grammar: There is (singular) / There are (plural). Ex: There is a washing machine. Is there a fridge?
+- Practice: keep my clothes in the wardrobe; microwave to heat up lunch; comfortable sofa in our living room; fridge is full; beautiful mirror above the sink; do the dishes after dinner; carpet in the hallway; keep our plates in the cupboard; relax on the balcony; I do share the chores with my family; I'm afraid I live alone at the moment; I’d have to say that I dislike doing the dishes; Would you mind if I do the laundry?
+
+[Topic 31: Modal Verbs (Must vs Have to)]
+- Vocab (Full): Obligation=Зобов'язання; Forbidden=Заборонено; Optional=Необов'язковий; Chores=Домашні обов'язки; Deadline=Дедлайн; To keep up with=Встигати за.
+- Grammar: Must (Personal feelings: I must call her). Have to (Rules/Facts: I have to wear glasses). Mustn't (Forbidden). Don't have to (Not necessary). Past: Had to.
+- Practice: She must finish her homework; You have to study more; He must wake up early; They don’t have to visit that exhibition; We had to call the doctor; had to submit my report yesterday; must wear a uniform at work; don’t have to clean the house today; will have to leave early; mustn’t forget your promises; I’m afraid I have to wake up at 6 AM; You mustn’t use it without booking.
+
+[Topic 32: Health Problems & Medical Advice]
+- Vocab (Full): To feel sick=Почуватися хворим; To have a cold=Мати застуду; To have the flu=Хворіти на грип; To sneeze=Чхати; To cough=Кашляти; Headache=Головний біль; Stomachache=Біль у шкунку; Earache=Біль у вусі; Toothache=Зубний біль; Sore throat=Біль у горлі; Allergy=Алергія.
+- Grammar: Have/has + headache/stomachache. Have a sore + throat/eye. Sick (US/informal/mild) vs Ill (UK/formal/serious).
+- Practice: feel sick, it’s best to rest; avoid getting the flu; allergy season, I often sneeze; hot tea with honey can calm down a sore throat; After the computer screen, I got a headache; earache; toothache; I'm afraid I've developed a terrible toothache; Could you tell me if the pain is constant?; Actually, it hurts more when I try to eat; To be honest, I’ve been sneezing constantly; I would recommend taking some medicine.
 
 ---
 ## POLITE ENGLISH SOFTENERS:
