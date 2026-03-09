@@ -54,7 +54,9 @@
 
 Ці файли містять інтерактивні промпти для ChatGPT/Claude з повною базою знань курсу для глибокої перевірки.
 
-1. 📥 **[Prompt_Part1.txt](./prompts/Prompt_Part1.txt)** — Уроки 01-15 (додані 01-07).
-2. 📥 **[Prompt_Part2.txt](./prompts/Prompt_Part2.txt)** — Уроки 16-50 (додані 23-32).
+1. 📥 **[Prompt_Part1.txt](./prompts/Prompt_Part1.txt)** — Уроки 01–10.
+2. 📥 **[Prompt_Part2.txt](./prompts/Prompt_Part2.txt)** — Уроки 11–16 (уроки 17–20 відсутні в базі документів).
+3. 📥 **[Prompt_Part3.txt](./prompts/Prompt_Part3.txt)** — Уроки 23–30 (уроки 21–22 відсутні в базі документів).
+4. 📥 **[Prompt_Part4.txt](./prompts/Prompt_Part4.txt)** — Уроки 31–40.
 
 *Скопіюйте вміст потрібного файлу та вставте в улюблений чат-бот для початку тестування.*
