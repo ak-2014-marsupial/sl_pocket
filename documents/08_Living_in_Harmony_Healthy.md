@@ -20,7 +20,19 @@
 
 ---
 
-### **2. Grammar Essentials: Healthy Habits & Collocations**
+### **2. Vocabulary Hooks**
+
+> **It is hard to maintain a balanced diet if you skip meals, because your brain will decide that junk food is the only 'balanced' way to survive the hunger.**
+>
+> *Важко підтримувати збалансоване харчування, якщо ви пропускаєте прийоми їжі, бо ваш мозок вирішить, що шкідлива їжа — це єдиний «збалансований» спосіб пережити голод.*
+>
+> **My alarm clock is plenty of water. I drink it before I stay up late, so I can never get enough sleep because the bathroom calls me every hour!**
+>
+> *Мій будильник — це велика кількість води. Я п’ю її перед тим, як засиджуюся допізна, тому ніколи не можу виспатися, бо вбиральня кличе мене щогодини!*
+
+---
+
+### **3. Grammar Essentials: Healthy Habits & Collocations**
 
 * **Verbs for Positive Habits:**
 * *To have/maintain* + a balanced diet.
@@ -44,7 +56,7 @@
 
 ---
 
-### **3. Written Practice**
+### **4. Written Practice**
 
 1. Eating a **balanced diet** helps you get all the nutrients you need.
 2. It’s important to **exercise regularly** every day to keep your body strong.
@@ -59,7 +71,7 @@
 
 ---
 
-### **4. Speaking & Discussion Guide**
+### **5. Speaking & Discussion Guide**
 
 **Question 1: What do you usually eat for breakfast? Do you think it’s a healthy choice?**
 
@@ -78,7 +90,7 @@
 
 ---
 
-### **5. Professional Scenarios (Dialogue Adaptation)**
+### **6. Professional Scenarios (Dialogue Adaptation)**
 
 **Scenario: Discussing Lifestyle Changes with a Colleague**
 
@@ -92,7 +104,7 @@
 
 ---
 
-### **6. Polite English Cheat Sheet**
+### **7. Polite English Cheat Sheet**
 
 | Phrase | When to use it |
 | --- | --- |

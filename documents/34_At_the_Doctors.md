@@ -16,7 +16,15 @@
 
 ---
 
-## 2. Grammar Essentials
+## 2. Vocabulary Hooks
+
+> **A patient patient waited for a doctor, but the impatient patients started to lose their patience.**
+>
+> *Терплячий пацієнт чекав на лікаря, але нетерпячі пацієнти почали втрачати своє терпіння.*
+
+---
+
+## 3. Grammar Essentials
 
 У цій лекції ми розглядаємо вживання дієслова **to feel** (стан) та конструкції **to have a pain in** для опису самопочуття.
 
@@ -41,7 +49,7 @@
 
 ---
 
-## 3. Written Practice 
+## 4. Written Practice 
 
 Exercise 1: Fill in the gaps 
 
@@ -82,7 +90,7 @@ Exercise 3: Translation into English
 
 ---
 
-## 4. Speaking & Discussion Guide
+## 5. Speaking & Discussion Guide
 
 Discussion Questions 
 
@@ -113,7 +121,7 @@ Discussion Questions
 
 ---
 
-## 5. Polite English Cheat Sheet
+## 6. Polite English Cheat Sheet
 
 | Phrase / Softener | How to use it |
 | --- | --- |

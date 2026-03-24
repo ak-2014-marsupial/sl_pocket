@@ -18,7 +18,19 @@
 
 ---
 
-## 2. Grammar Essentials: Adjectives + Prepositions
+## 2. Vocabulary Hooks
+
+> **The cat was excited about the awesome fish, but grew nervous when the fish started talking. It was an awful conversation that left the cat very upset.**
+>
+> *Кіт був у захваті від крутої риби, але почав нервувати, коли риба заговорила. Це була жахлива розмова, яка дуже засмутила кота.*
+>
+> **It is amazing how an angry person can be so tired, yet never too afraid to start another fight.**
+>
+> *Дивовижно, як зла людина може бути такою втомленою, але при цьому ніколи не боятися розпочати нову бійку.*
+
+---
+
+## 3. Grammar Essentials: Adjectives + Prepositions
 
 *Важливо використовувати правильні прийменники після прикметників, що описують емоції.*
 
@@ -44,7 +56,7 @@
 
 ---
 
-## 3. Written Practice (Completed Exercises)
+## 4. Written Practice (Completed Exercises)
 
 *Всі вправи виконано повністю згідно з матеріалами слайдів.*
 
@@ -75,7 +87,7 @@
 
 ---
 
-## 4. Speaking & Discussion Guide
+## 5. Speaking & Discussion Guide
 
 *Варіанти розгорнутих відповідей на дискусійні питання з використанням ввічливих конструкцій.*
 
@@ -99,7 +111,7 @@ Q3: Describe a situation where you felt nervous before an important event.
 
 ---
 
-## 5. Professional Dialogue Scenarios
+## 6. Professional Dialogue Scenarios
 
 Scenario: A New Job Opportunity 
 
@@ -109,7 +121,7 @@ Scenario: A New Job Opportunity
 
 ---
 
-## 6. Polite English Cheat Sheet
+## 7. Polite English Cheat Sheet
 
 | Softener / Construction | When to use it |
 | --- | --- |

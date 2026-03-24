@@ -18,7 +18,15 @@
 
 ---
 
-### 2. Grammar Essentials: Describing Aches
+### 2. Vocabulary Hooks
+
+> **A patient patient waited for a doctor, but the impatient patients started to lose their patience.**
+>
+> *Терплячий пацієнт чекав на лікаря, але нетерплячі пацієнти почали втрачати своє терпіння.*
+
+---
+
+### 3. Grammar Essentials: Describing Aches
 
 Для опису болю в англійській мові часто використовується дві конструкції:
 
@@ -38,7 +46,7 @@
 
 ---
 
-### 3. Written Practice (Completed Exercises)
+### 4. Written Practice (Completed Exercises)
 
 * When you start to **feel sick**, it’s best to rest and drink plenty of water. 
 
@@ -60,7 +68,7 @@
 
 ---
 
-### 4. Speaking & Discussion Guide
+### 5. Speaking & Discussion Guide
 
 **Q1: What healthy habits do you have?** 
 
@@ -74,7 +82,7 @@
 
 ---
 
-### 5. Professional Scenarios (Dialogues)
+### 6. Professional Scenarios (Dialogues)
 
 **Scenario: At the Dentist's Office (Based on Emily's case)**
 
@@ -92,7 +100,7 @@
 
 ---
 
-### 6. Polite English Cheat Sheet
+### 7. Polite English Cheat Sheet
 
 | Phrase | Purpose (When to use) |
 | --- | --- |

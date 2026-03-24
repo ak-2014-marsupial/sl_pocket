@@ -17,7 +17,15 @@
 
 ---
 
-## 2. Grammar Essentials: Collective Nouns (Family)
+## 2. Vocabulary Hooks
+
+> **If your spouse has a sibling, that sibling’s child is your niece or nephew, but to them, you are just the person who married their favorite aunt or uncle.**
+>
+> *Якщо у вашого чоловіка/дружини є брат чи сестра, то їхня дитина — це ваші племінниця чи племінник, але для них ви просто людина, яка одружилася з їхнім улюбленим дядьком чи тіткою.*
+
+---
+
+## 3. Grammar Essentials: Collective Nouns (Family)
 
 Коли ми говоримо про слово **"family"**, використання дієслова залежить від контексту та варіанту англійської мови:
 
@@ -31,7 +39,7 @@
 
 ---
 
-## 3. Written Practice (Completed Exercises)
+## 4. Written Practice (Completed Exercises)
 
 1. After getting married, she became my **spouse**.
 2. My sister gave birth to a baby girl, so now I have a new **niece**.
@@ -70,7 +78,7 @@
 
 ---
 
-## 4. Speaking & Discussion Guide
+## 5. Speaking & Discussion Guide
 
 Q1: How many siblings do you have? What do you enjoy doing together? 
 
@@ -92,7 +100,7 @@ Q4: Do you have a favorite family memory?
 
 ---
 
-## 5. Scenario: Professional Dialogue Practice
+## 6. Scenario: Professional Dialogue Practice
 
 *Ситуація: Колега запитує вас про плани на відпустку та вашу родину.*
 
@@ -106,7 +114,7 @@ Q4: Do you have a favorite family memory?
 
 ---
 
-## 6. Polite English Cheat Sheet
+## 7. Polite English Cheat Sheet
 
 | Phrase / Softener | How to use it |
 | --- | --- |

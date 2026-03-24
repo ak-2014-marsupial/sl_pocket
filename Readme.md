@@ -22,6 +22,12 @@
 - [14 Present Simple Passive](./documents/14_Present_Simple_Passive.md)
 - [15 At the Store](./documents/15_At_the_Store.md)
 - [16 Tech talk](./documents/16_Tech_talk.md)
+- [17 Past Simple Passive](./documents/17_Past_Simple_Passive.md)
+- [18 Social Media Stories](./documents/18_Social_Media_Stories.md)
+- [19 Moments of Relaxation](./documents/19_Moments_of_Relaxation.md)
+- [20 Expressing likes desires](./documents/20_Expressing_likes_desires.md)
+- [21 Gerund Phrases](./documents/21_Gerund_Phrases.md)
+- [22 Life Journey Important](./documents/22_Life_Journey_Important.md)
 - [23 Get phrases](./documents/23_Get_phrases.md) 
 - [24 Present Perfect ever never](./documents/24_PresentPerfect__ever_never.md) 
 - [25 Travel experiences](./documents/25_Travel_experiences.md) 
@@ -40,6 +46,12 @@
 - [38 In the mirror](./documents/38_In_the_mirror.md)
 - [39 Comparative Superlative](./documents/39_Comparative_Superlative.md)
 - [40 Personal Care Rituals](./documents/40_Personal_Care_Rituals.md)
+- [41 Job Journey](./documents/41_Job_Journey.md)
+- [42 Relative Clauses](./documents/42_Relative_Clauses.md)
+- [43 Getting ready for job](./documents/43_Getting_ready_for_job.md)
+- [44 Financial Fitness](./documents/44_Financial_Fitness.md)
+- [45 So such too enough](./documents/45_So_such_too_enough.md)
+- [46 Tap swipe and pay](./documents/46_Tap_swipe_and_pay.md)
 
 ---
 
@@ -55,8 +67,9 @@
 Ці файли містять інтерактивні промпти для ChatGPT/Claude з повною базою знань курсу для глибокої перевірки.
 
 1. 📥 **[Prompt_Part1.txt](./prompts/Prompt_Part1.txt)** — Уроки 01–10.
-2. 📥 **[Prompt_Part2.txt](./prompts/Prompt_Part2.txt)** — Уроки 11–16 (уроки 17–20 відсутні в базі документів).
-3. 📥 **[Prompt_Part3.txt](./prompts/Prompt_Part3.txt)** — Уроки 23–30 (уроки 21–22 відсутні в базі документів).
+2. 📥 **[Prompt_Part2.txt](./prompts/Prompt_Part2.txt)** — Уроки 11–20.
+3. 📥 **[Prompt_Part3.txt](./prompts/Prompt_Part3.txt)** — Уроки 21–30.
 4. 📥 **[Prompt_Part4.txt](./prompts/Prompt_Part4.txt)** — Уроки 31–40.
+5. 📥 **[Prompt_Part5.txt](./prompts/Prompt_Part5.txt)** — Уроки 41–46.
 
 *Скопіюйте вміст потрібного файлу та вставте в улюблений чат-бот для початку тестування.*

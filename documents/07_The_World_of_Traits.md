@@ -17,7 +17,23 @@
 
 ---
 
-### 2. Grammar Essentials: Describing Personality
+### 2. Vocabulary Hooks
+
+> **It is rude to be selfish, but is it mean to find the mean of a mean man's money?**
+>
+> *Грубо бути егоїстичним, але чи це підло (або скупо) — шукати середнє значення грошей скупої людини?*
+>
+> **To be honest, I’m only outgoing when I’m confident that a generous billionaire will pay for my dinner.**
+>
+> *Чесно кажучи, я стаю товариським лише тоді, коли впевнений, що щедрий мільярдер оплатить мою вечерю.*
+>
+> **A patient patient waited for a doctor, but the impatient patients started to lose their patience.**
+>
+> *Терплячий пацієнт чекав на лікаря, але нетерплячі пацієнти почали втрачати своє терпіння.*
+
+---
+
+### 3. Grammar Essentials: Describing Personality
 
 
 * **Formula:** `Subject + be + (adverb) + Adjective`
@@ -30,7 +46,7 @@
 
 ---
 
-### 3. Written Practice
+### 4. Written Practice
 
 1. She loves meeting new people and is never shy in social situations. She is very **outgoing**.
 2. Even when things are tough, he stays calm and waits his turn. He is very **patient**.
@@ -44,7 +60,7 @@
 
 ---
 
-### 4. Speaking & Discussion Guide
+### 5. Speaking & Discussion Guide
 
 Q1: How do you feel when you meet new people? Do you enjoy it? 
 
@@ -63,7 +79,7 @@ Q2: Is it always easy for you to be honest? Why or why not?
 
 ---
 
-### 5. Professional Scenarios (Dialogue Practice)
+### 6. Professional Scenarios (Dialogue Practice)
 
 **Scenario: Discussing a Colleague (Based on "Alex" profile)**
 
@@ -77,7 +93,7 @@ Q2: Is it always easy for you to be honest? Why or why not?
 
 ---
 
-### 6. Polite English Cheat Sheet
+### 7. Polite English Cheat Sheet
 
 * **Softeners (Пом'якшувачі):**
 * *Actually / To be honest:* Використовуйте перед висловленням думки, яка може не збігатися з думкою співрозмовника.

@@ -1,122 +1,151 @@
-# Our Amazing Bodies & Body Language
+# 12. Our Amazing Bodies
 
 ## 1. Vocabulary & Definitions
 
-| Word/Phrase | Definition in English | Переклад (Ukrainian) |
+| Word/Phrase | Definition in English | Переклад |
 | --- | --- | --- |
+| **Lip** | One of the two soft edges of the mouth.  | Губа |
 | **Neck** | The part of the body that joins the head to the shoulders. | Шия |
-| **Shoulder** | One of the two parts of the body at each side of the neck. | Плече |
-| **Knee** | The joint between the top and bottom part of the leg. | Коліно |
-| **Tongue** | The soft part inside your mouth used for tasting and speaking. | Язик |
-| **Toe / Finger** | Parts at the end of your foot (toe) or hand (finger). | Палець ноги / руки |
-| **Back** | The rear surface of the human body from the neck to the hips. | Спина |
-| **Foot (pl. feet)** | The part of the leg on which a person stands or walks. | Стопа |
-| **Arm / Hand** | The limb from shoulder to hand (arm) vs. the end part (hand). | Рука (вся) / Кисть |
-| **To roll one's eyes** | To move your eyes upwards as a sign of being annoyed or bored. | Закочувати очі |
-| **To tap fingers** | To hit your fingers lightly against a surface, often due to impatience. | Стукати пальцями |
-| **To bite lips** | To press your teeth into your lips, usually when nervous. | Кусати губи |
-| **To cross arms/legs** | To place one arm or leg over the other. | Схрещувати руки/ноги |
-| **To touch the nose** | To place a hand on the nose; sometimes thought to indicate lying. | Торкатися носа |
+| **Shoulder** | One of the two parts of the body between the neck and the top of the arms. | Плече |
+| **Knee** | The joint between the top and bottom parts of the leg.  | Коліно |
+| **Tongue** | The soft part inside the mouth that you use for tasting and speaking. | Язик |
+| **Toe** | One of the five small parts that stick out from the foot.  | Палець на нозі |
+| **Finger** | One of the five long parts at the end of each hand.  | Палець на руці |
+| **Back** | The part of the body from the neck to the bottom.  | Спина |
+| **Tooth** | One of the hard white objects in the mouth used for biting and chewing. | Зуб |
+| **Foot** | The part of the leg on which a person stands.  | Стопа |
+| **Hand** | The part of the body at the end of the arm, including the fingers. | Рука (до зап’ястя) |
+| **Arm** | The long part of the body between the shoulder and the hand.  | Рука (від плеча) |
+| **Tap fingers** | To hit a surface repeatedly and lightly with your fingers. | Стукати пальцями |
+| **Bite lips** | To use teeth to press on the lips, often due to nervousness. | Кусати губи |
+| **Cross legs** | To sit with one leg over the other.  | Схрещувати ноги |
+| **Cross arms** | To fold arms across the chest. | Схрещувати руки |
+| **Shake hands** | To hold and move someone's hand up and down as a greeting. | Тиснути руки |
+| **Roll eyes** | To move eyes upwards to show annoyance or disbelief.  | Закочувати очі |
+| **Touch the nose** | To put a finger or hand on the nose.  | Торкатися носа |
 
----
+## 2. Vocabulary Hooks
 
-## 2. Grammar Essentials: Present Simple for Habits & Facts
+> You **tap** your **fingers** when the waiter is taking too long; it shows you are feeling a bit impatient. When someone is being difficult, you might **roll** your **eyes** to show you are slightly annoyed. 
+> 
+> 
 
-* **Habits (Звички):**
+## 3. Grammar Essentials
+
+**Formula: If + Present Simple, ... Present Simple** 
+
+Ця конструкція (Zero Conditional) використовується для опису загальновідомих фактів, законів природи або регулярних дій, де одна подія завжди веде до іншої. 
+
+*Example: If a person taps fingers, it often means they are impatient.* *Example: If people shake hands, they usually greet each other.* 
+
+## 4. Written Practice
+
+**Exercise 1: True or False (Body Parts)**
+
+1. Your knee is located on your arm. **False** 
+
+2. Your ‘tongue’ helps you taste food. **True** 
+
+3. You use your ‘shoulder’ to tap on a keyboard. **False** 
+
+4. The neck is between your head and your shoulders. **True** 
+
+
+**Exercise 2: Multiple Choice**
+
+1. Which body part is found on your face? **b) Lip** 
+
+2. Which body part do you use to walk? **a) Toe** (or leg/foot) 
+
+
+**Exercise 3: Body Language Logic**
+
+1. Tapping your fingers can show that you’re feeling impatient. **True** 
+
+2. People usually bite their lips when they are feeling very confident. **False** 
+
+3. Crossing your legs is a relaxed sitting position. **True** 
+
+4. Shaking hands is a common greeting in many cultures. **True** 
+
+5. People often cross their arms to show they are open and welcoming. **False** 
+
+6. Rolling your eyes can show that you are annoyed. **True** 
+
+7. Touching your nose might show that you are lying. **True** 
+
+8. Shaking hands is usually a sign of nervousness. **False** 
+
+9. Rolling your eyes is a sign of agreement with someone’s idea. **False** 
+
+10. Biting your lips is often a sign that someone feels calm and relaxed. **False** 
+
+
+
+**Translation Block:**
+
+* Я стукаю пальцями, коли чекаю. -> **I tap my fingers when I’m waiting.** 
+
+* Вона кусає губи, коли нервує. -> **She bites her lips when she’s nervous.** 
+
+* Він завжди схрещує ноги під час зустрічей. -> **He always crosses his legs during meetings.** 
+
+
+
+## 5. Speaking & Discussion Guide
+
+**Q1: Do you roll your eyes when you're annoyed?** 
+
+**Positive:** Actually, I might roll my eyes occasionally if I’m with close friends and someone says something silly.
+
+**Neutral:** To be honest, I try to avoid doing that in professional settings, though I might feel like it sometimes. 
+
+**Negative:** I'm afraid I find that gesture a bit disrespectful, so I usually prefer to just speak my mind. 
+
+
+
+**Q2: How do you feel when someone crosses their arms while talking to you?** 
  
-*I tap my fingers when I’m waiting.* 
+**Positive:** I don't mind it at all; to me, it might just mean they are comfortable or even a bit cold. 
 
-*She bites her lips when she’s nervous.* 
+**Negative:** I'm afraid it makes me feel a bit uncomfortable because they look like they are closing themselves off. 
 
+**Neutral:** Actually, it depends on the context, but I usually don't read too much into it. 
 
-* **General Truths (Загальні факти):**
- 
-*The neck is between your head and your shoulders.* 
- 
-*Shaking hands is a common greeting.* 
+**Q3: What gesture do you use to greet friends?** 
 
+**Positive:** I usually prefer to give a warm hug or a high-five, especially if I haven't seen them for a while. 
 
-* **Conditionals (Умовні речення 0-го типу):**
- 
-*If a person rolls their eyes, it can show they are annoyed.* 
+**Negative:** I’m not really a "hugger," so I could say that a simple wave or a nod is enough for me. 
+
+**Neutral:** To be honest, it really depends on the friend; sometimes we shake hands, and other times we just wave. 
 
 
----
+## 6. Professional Scenarios
 
-## 3. Written Practice (Completed Exercises)
+**Scenario 1: Meeting a New Client**
+*Context:* You are meeting a potential business partner for the first time.
 
-True or False? 
-
-1. Your knee is located on your arm. — **False** (It is on your leg).
-
-2. Your ‘tongue’ helps you taste food. — **True**.
-
-3. You use your ‘shoulder’ to tap on a keyboard. — **False** (You use your fingers).
-
-4. The neck is between your head and your shoulders. — **True**.
-
-5. Touching your nose might show that you are lying. — **True**.
-
-6. People often cross their arms to show they are open and welcoming. — **False** (It usually shows they are closed or defensive).
-
-7. Biting your lips is often a sign that someone feels calm and relaxed. — **False** (It's a sign of nervousness).
+* **Role A:** Good morning. It is a pleasure to finally meet you in person.
+* **Role B:** To be honest, I have been looking forward to this as well. *[They shake hands firmly]* 
 
 
-Sentence Completion 
+* **Role A:** Could you please tell me more about your project?
 
-* If a person **taps their fingers**, they might be feeling impatient or bored.
-* If a person **bites their lips**, it's likely they are feeling quite nervous or anxious.
-* If a person **crosses their legs**, they are usually in a relaxed sitting position.
-* If a person **shakes hands**, they are greeting someone in a formal or professional way.
+**Scenario 2: Noticing Impatience in a Meeting**
 
----
 
-## 4. Speaking & Discussion Guide
+*Context:* A colleague is tapping their fingers while you are presenting. 
 
-Discussion Questions & Sample Answers 
+* **Role A:** ...and that is why the deadline is vital. Actually, I noticed you were tapping your fingers; do you have a concern?
+* **Role B:** I'm afraid I’m just a bit worried about the timeline, but please continue.
 
-**Q1: How do you feel when someone crosses their arms while talking to you?** 
+## 7. Polite English Cheat Sheet
 
-* **Positive/Neutral:** "To be honest, I don't mind it much. I suppose they might just be comfortable sitting that way."
-* **Negative:** "Actually, it makes me feel a bit uncomfortable. I'm afraid it suggests they aren't really open to what I'm saying."
-
-**Q2: What gesture do you use to greet friends?** 
-
-* **Formal:** "I usually shake hands, though I might give a small wave if we are in a rush."
-* **Informal:** "I'd say I mostly hug my close friends. It feels much more personal, wouldn't you agree?"
-
-**Q3: How do you express happiness with your body?** 
-
-* **Active:** "I'm likely to smile broadly or even jump a little if the news is particularly exciting!"
-* **Calm:** "Actually, I tend to stay quite calm, but you might notice a very big smile on my face."
-
----
-
-## 5. Professional Dialogue Scenarios
-
-### Scenario: The Impatient Client (Practicing "Tapping Fingers")
-
-**Person A:** "I'm so sorry for the delay, I'll be with you in just a moment."
-
-**Person B:** (Tapping fingers on the desk) "Actually, I've been waiting for quite a while. Could we possibly speed things up?"
-
-**Person A:** "I completely understand. I'm afraid the system is a bit slow today, but I'll do my best."
-
-### Scenario: The Job Interview (Practicing "Shaking Hands")
-
-**Interviewer:** "It's a pleasure to meet you. Please, have a seat."
-
-**Candidate:** "Thank you. It's a pleasure to meet you too." (Shakes hands firmly) "I've been looking forward to this discussion."
-
----
-
-## 6. Polite English Cheat Sheet
-
-| Phrase / Softener | Usage |
+| Phrase / Softener | When to use it (Context) |
 | --- | --- |
-| **"Actually..."** | Використовуйте для ввічливого виправлення когось або вираження іншої думки. |
-| **"I'm afraid..."** | Використовуйте перед повідомленням поганих новин або висловленням незгоди. |
-| **"To be honest..."** | Додає щирості вашій думці, роблячи критику менш різкою. |
-| **"Could we possibly...?"** | Ввічливий спосіб попросити про щось (замість наказового способу). |
-| **"I suppose..."** | Допомагає висловити припущення менш категорично. |
-| **"Wouldn't you agree?"** | Перетворює твердження на питання, запрошуючи співрозмовника до діалогу. |
+| **Actually** | To politely correct someone or introduce a surprising fact. |
+| **To be honest** | To share a personal opinion or a slightly negative feeling gently. |
+| **I'm afraid** | To introduce bad news or disagree in a soft way. |
+| **Could / Would / Might** | To make requests or suggestions sound less bossy and more professional. |
+| **Indirect Questions** | To ask for information without being too direct or aggressive. |
