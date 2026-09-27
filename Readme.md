@@ -1,4 +1,7 @@
 # Study Less Pocket 🎓
+*{{ site.annotation }}*
+---
+*{{ site.description }}*
 ---
 
 ## 📚 1. Матеріали до уроків-вебінарів
