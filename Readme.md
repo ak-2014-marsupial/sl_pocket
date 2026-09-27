@@ -6,6 +6,8 @@
 
 ## 📚 1. Матеріали до уроків-вебінарів
 
+### 🔹 Pre-Intermediate (Уроки 01–46)
+
 - [01 Connecting with Others](./documents/01_Connecting_with_Others.md)
 - [02 Different Families](./documents/02_Different_Families_.md)
 - [03 Past Continuous](./documents/03_Past_Continuous.md)
@@ -53,18 +55,70 @@
 - [45 So such too enough](./documents/45_So_such_too_enough.md)
 - [46 Tap swipe and pay](./documents/46_Tap_swipe_and_pay.md)
 
+### 🔹 Intermediate (Уроки 01–48)
+
+- [01 Recharging Your Batteries](./intermediate/01_Recharging_Your_Batteries.md)
+- [02 Present Perfect yet](./intermediate/02_Present_Perfect_yet.md)
+- [03 Your Life Checklist](./intermediate/03_Your_Life_Checklist.md)
+- [04 Work Reality Check](./intermediate/04_Work_Reality_Check.md)
+- [05 Present Perfect Continuous](./intermediate/05_Present_Perfect_Continuous.md)
+- [06 How to Optimize Your Work](./intermediate/06_How_to_Optimize_Your.md)
+- [07 Healthy Eating Habits](./intermediate/07_Healthy_Eating_Habits.md)
+- [08 Used to Habits States](./intermediate/08_Used_to_Habits_States.md)
+- [09 Food Experiences](./intermediate/09_Food_Experiences.md)
+- [10 What's the Best Travel Style](./intermediate/10_What's_the_Best_Travel.md)
+- [11 Past Perfect](./intermediate/11_Past_Perfect.md)
+- [12 Travel Like a Local](./intermediate/12_Travel_Like_a_Local.md)
+- [13 Media Just for Fun](./intermediate/13_Media_Just_for_Fun.md)
+- [14 Articles](./intermediate/14_Articles.md)
+- [15 Don't Fall for All Ads](./intermediate/15_Dont_Fall_for_All.md)
+- [16 Self Care and Beauty](./intermediate/16_Self_care_and_Beauty.md)
+- [17 Indirect Questions](./intermediate/17_Indirect_Questions.md)
+- [18 Confidence & Mental Beauty](./intermediate/18_Confidence_Mental_Beauty.md)
+- [19 Tech Repairs](./intermediate/19_Tech_Repairs.md)
+- [20 Have Get Something Done](./intermediate/20_Have_Get_Something.md)
+- [21 Home Services](./intermediate/21_Home_Services.md)
+- [22 Banking and Finances](./intermediate/22_Banking_and_Finances.md)
+- [23 Adjectives ending in -ed/-ing](./intermediate/23_Adjectives_ending_in.md)
+- [24 Spending & Saving](./intermediate/24_Spending_Saving.md)
+- [25 Gossip and Rumors](./intermediate/25_Gossip_and_Rumors.md)
+- [26 Reported Speech](./intermediate/26_Reported_Speech.md)
+- [27 Social Media Gossip](./intermediate/27_Social_Media_Gossip.md)
+- [28 Real or Google Doctor](./intermediate/28_Real_or_Google_Doctor.md)
+- [29 Reported Questions](./intermediate/29_Reported_Questions.md)
+- [30 Modern or Granny Medicine](./intermediate/30_Modern_or_Granny_Medicine.md)
+- [31 No Regrets Just Lessons](./intermediate/31_No_Regrets_Just_Lessons.md)
+- [32 Third Conditional](./intermediate/32_Third_Conditional.md)
+- [33 Everything Happens for a Reason](./intermediate/33_Everything_Happens.md)
+- [34 Small Towns Big Cities](./intermediate/34_Small_Towns_Big.md)
+- [35 I Wish / If Only](./intermediate/35_I_Wish_If_Only.md)
+- [36 Road and Street Moods](./intermediate/36_Road_and_Street_Moods.md)
+- [37 Is a Hobby a Must](./intermediate/37_Is_a_Hobby_a_Must.md)
+- [38 Modals of Deduction](./intermediate/38_Modals_of_Deduction.md)
+- [39 From Hobby to Profession](./intermediate/39_From_Hobby_to_Profession.md)
+- [40 The Day of Shopping](./intermediate/40_The_Day_of_Shopping.md)
+- [41 Question Tags](./intermediate/41_Question_Tags.md)
+- [42 Online Shopping](./intermediate/42_Online_Shopping.md)
+- [43 Childhood Then and Now](./intermediate/43_Childhood_Then_and.md)
+- [44 Should Have / Shouldn't Have](./intermediate/44_Should_Have_Shouldn.md)
+- [45 Grown-up Outside, Child Inside](./intermediate/45_Grown_up_Outside_Child.md)
+- [46 Events That Are Worth It](./intermediate/46_Events_That_Are_Worth.md)
+- [47 Was / Were Supposed To](./intermediate/47_Was_Were_Supposed_To.md)
+- [48 Professional and Educational Events](./intermediate/48_Professional_and_Educational.md)
+
 ---
 
-## 📺 2. Посилання на презентації
+## 📺 2. Посилання на презентації та відео
 
-Усі Google Slides презентації для перегляду та самопідготовки:
-👉 **[Список презентацій до уроків-вебінарів (01-46)](./documents/Presentations.md)**
+Усі Google Slides презентації та відеоматеріали для самопідготовки:
+- 👉 **[Презентації Pre-Intermediate (01-46)](./documents/Presentations.md)**
+- 👉 **[Презентації Intermediate (01-48)](./intermediate/Presentations.md)**
 
 ---
 
 ## 🎓 3. Навчальні промпти (Deep Practice)
 
-Ці файли містять інтерактивні промпти для ChatGPT/Claude з повною базою знань курсу для глибокої перевірки.
+Ці файли містять інтерактивні промпти для ChatGPT/Claude з базою знань курсу для глибокої перевірки (Pre-Intermediate рівень):
 
 1. 📥 **[Prompt_Part1.txt](./prompts/Prompt_Part1.txt)** — Уроки 01–10.
 2. 📥 **[Prompt_Part2.txt](./prompts/Prompt_Part2.txt)** — Уроки 11–20.
