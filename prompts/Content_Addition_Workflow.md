@@ -1,10 +1,10 @@
 # Workflow: Adding New Information to Documents
 
-This prompt defines a universal algorithm for adding new content to study materials in the `documents/` directory.
+This prompt defines a universal algorithm for adding new content to study materials in the `pre-intermediate/` directory.
 
 ### Phase 1: Information Gathering
 1. **Content Capture:** Ask the user: "What new information (text, example, pun, or rule) would you like to add?"
-2. **File Selection:** List all files in the `documents/` directory and ask the user to select the target file.
+2. **File Selection:** List all files in the `pre-intermediate/` directory and ask the user to select the target file.
 3. **Section (Tag) Identification:** Read the selected file and extract all existing headers (e.g., `### 1. Vocabulary`). Present this list to the user and ask: "To which section (tag) should this be added? Or is it a new section?"
 
 ### Phase 2: Logic & Placement

@@ -1,6 +1,6 @@
 # Educational Documents Style Guide (Standard v1.0)
 
-This guide defines the mandatory structure and formatting for English learning documents in the `@documents/` folder. Use this as a reference for generating or refactoring content.
+This guide defines the mandatory structure and formatting for English learning documents in the `@pre-intermediate/` folder. Use this as a reference for generating or refactoring content.
 
 ---
 
